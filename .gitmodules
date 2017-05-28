@@ -1,0 +1,9 @@
+[submodule "inc"]
+	path = inc
+	url = https://github.com/U-007D/inc.git
+[submodule "fluent_validator"]
+	path = fluent_validator
+	url = https://github.com/U-007D/fluent_validator.git
+[submodule "is_type"]
+	path = is_type
+	url = https://github.com/U-007D/is_type.git
